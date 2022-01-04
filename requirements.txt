@@ -1,0 +1,16 @@
+Jupyter
+numpy
+seaborn
+openpyxl
+pandas
+pandas_bokeh
+panel
+hvplot
+plotly
+holoviews
+matplotlib
+bokeh
+datetime
+ggplot
+geopandas
+glyph

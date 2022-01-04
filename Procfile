@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT python_jnb.ipynb --allow-websocket-origin=covidwatchnyc.herokuapp.com
